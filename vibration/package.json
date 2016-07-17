@@ -1,0 +1,29 @@
+{
+    "author": "liam@mcmains.net",
+    "dependencies": {},
+    "keywords": [],
+    "name": "vibration-and-backlight",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Vibration and Backlight",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "0b3560c1-8d51-4b6c-9b6e-e1b447fd1398",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
